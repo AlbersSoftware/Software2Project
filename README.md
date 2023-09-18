@@ -23,3 +23,6 @@ separate page was created for
 keeping appointment reports. This 
 application uses MySQL database 
 to store all information.
+
+
+![Software2-programflow](https://github.com/AlbersSoftware/Software2Project/assets/65799182/08caf483-ec8e-40e2-965c-8c9219471635)
